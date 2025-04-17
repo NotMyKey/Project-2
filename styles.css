@@ -1,0 +1,27 @@
+/* Custom Chart Tooltips */
+.chartjs-tooltip {
+    background: rgba(44, 62, 80, 0.9) !important;
+    border-radius: 4px !important;
+    color: white !important;
+    padding: 0.5rem 1rem !important;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1) !important;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .chart-card {
+        margin-bottom: 1rem;
+        padding: 1rem;
+    }
+    
+    .chart-title {
+        font-size: 1.1rem;
+    }
+}
+
+/* Radar Chart Enhancements */
+canvas[data-radar-chart] {
+    background: linear-gradient(45deg, #f8f9fa, #ffffff);
+    border-radius: 8px;
+    padding: 15px;
+}

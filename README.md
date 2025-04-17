@@ -42,4 +42,4 @@ A web-based dashboard visualizing key logistics metrics using synthetic data.
 - CSV structure designed for realistic logistics scenarios
 
 ## Video Demo
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/your-video-id)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/2i5bVw9gUB4)
